@@ -1,0 +1,4 @@
+cd /Applications/Development/mongodb-osx-x86_64-2.6.4/bin
+./mongod --dbpath $HOME/Documents/workspace/statemachine/data
+
+http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
